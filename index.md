@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
 # [Project 1: Pizza Revenue Dashboard](https://github.com/Mohammedelmargane/Pizza_RevenueProject)
 
@@ -73,17 +73,5 @@ Quick notes highlighting the Report:
 ![Executive-Summary](https://raw.githubusercontent.com/Mohammedelmargane/SuperMarket_Report/main/Images/Screenshot%202023-10-01%20091406.png)
 
 
-### Category Name 2
-
-- [Project 1: Pizza Revenue Dashboard](https://github.com/Mohammedelmargane/Pizza_RevenueProject)
-- [Project 2: Hotel Revenue Dashboard](https://github.com/Mohammedelmargane/Hotel_RevenueProject)
-- [Project 3: Supermarket Report](https://github.com/Mohammedelmargane/SuperMarket_Report/tree/main)
 
 ---
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
