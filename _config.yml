@@ -3,9 +3,9 @@ logo: "/images/Screen-Shot-2020-01-28-at-10.13.28-AM.png?raw=true" # your photo 
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Hello My name is Mohamed and I'm 23 Year old I'm a collage student in IT, I have expert experience with; Excel, Google Sheet , PowerBI, I am fascinated by new technologies and try to stay up-to-date on everything related to the digital data environment.
   <br><br>
-  Second description 
+  
   <br><br>
-  <a href=www.linkedin.com/in/mohamed-elmargane>View My LinkedIn Profile</a> 
+  <a href=(www.linkedin.com/in/mohamed-elmargane)>View My LinkedIn Profile</a> 
   
 # remote_theme: pages-themes/minimal@v0.2.0
 # plugins:
